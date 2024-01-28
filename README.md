@@ -1,6 +1,6 @@
 # Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> I am Girish Salunke
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) <br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06)](https://leetcode.com/Girish__Salunke/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omigirish1999) <br>
 Full Stack Developer and AI Enthusiast | AWS Certified Cloud Practioner and Developer Associate <br>
 Winner 🏆 SIH '20 & EY Techathon '21 <br>
 
